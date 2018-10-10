@@ -1,2 +1,3 @@
 # HTML-Clock
 Just a little practice clock...
+Here's a clock I made in HTML. Im just trying to learn how to use GitHub.
